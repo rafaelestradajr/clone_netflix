@@ -53,7 +53,7 @@ function truncate(str,n){
          
           <div className="banner--fadeBottom"/>
         </header>
-    )
+    );
 }
 
 export default Banner
